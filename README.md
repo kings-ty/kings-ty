@@ -24,7 +24,7 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 - 🧑‍💻 I'm Leo, also known as **kings-ty**
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m currently learning Robotics but I worked Full-stack developer for 5 years
 - 💬 Ask me about anything related to web development or Python
 - 📫 How to reach me: [GitHub](https://github.com/kings-ty)
 
