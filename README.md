@@ -20,7 +20,7 @@
 
 | Project | Preview | Description | Link |
 | :--- | :---: | :--- | :--- |
-| **🚇 TY Land** | ![TFL](https://img.shields.io/badge/TFL-London-red?style=for-the-badge&logo=london-underground&logoColor=white) | **TFL*Google map** style Interactive server | [**Visit App ↗️**](https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/) |
+| **🚇 TY Land** | ![TFL](https://img.shields.io/badge/TFL-London-red?style=for-the-badge&logo=london-underground&logoColor=white) | **TFL&Google map** style Interactive server | [**Visit App ↗️**](https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/) |
 | **⚓ Submarine Monitor** | ![Submarine](https://img.shields.io/badge/System-Monitor-blue?style=for-the-badge&logo=target&logoColor=white) | Submarine monitoring | [**Visit App ↗️**](https://submarine-monitor-c2gagef0fvffa4c7.norwayeast-01.azurewebsites.net) |
 | **📝 Word Recording** | ![Portfolio](https://img.shields.io/badge/Main-Portfolio-green?style=for-the-badge&logo=google-cloud&logoColor=white) | Word and Sentence recording app | [**Visit App ↗️**](https://wordrecording-85020.web.app/) |
 
