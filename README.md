@@ -37,4 +37,7 @@
 - https://wordrecording-85020.web.app/
 
 <!-- Footer -->
+
+![footer][https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/]
+![footer][https://submarine-monitor-c2gagef0fvffa4c7.norwayeast-01.azurewebsites.net]
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
