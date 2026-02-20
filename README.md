@@ -13,7 +13,11 @@
 - 🤖 **Focus:** Currently pivoting into **Robotics Vision** and **Machine Learning**
 - 🛠 **Experience:** 5 years of professional **Full-stack Development**
 - 💬 **Ask me about:** Web architecture, Python optimization, or the future of AI in robotics
-- 🔗 **Portfolio:** [wordrecording-85020.web.app](https://wordrecording-85020.web.app/)
+| Project | Preview | Description | Link |
+| :--- | :---: | :--- | :--- |
+| **🚇 TY Land** | ![TFL](https://img.shields.io/badge/TFL-London-red?style=for-the-badge&logo=london-underground&logoColor=white) | **TFL(런던 교통공사)** 스타일 인터랙티브 프론트엔드 | [**Visit App ↗️**](https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/) |
+| **⚓ Submarine Monitor** | ![Submarine](https://img.shields.io/badge/System-Monitor-blue?style=for-the-badge&logo=target&logoColor=white) | 실시간 잠수함 시스템 및 데이터 모니터링 | [**Visit App ↗️**](https://submarine-monitor-c2gagef0fvffa4c7.norwayeast-01.azurewebsites.net) |
+| **📝 Word Recording** | ![Portfolio](https://img.shields.io/badge/Main-Portfolio-green?style=for-the-badge&logo=google-cloud&logoColor=white) | **Leo의 메인 포트폴리오** 및 단어 기록 웹 앱 | [**Visit App ↗️**](https://wordrecording-85020.web.app/) |
 
 ---
 
@@ -35,18 +39,5 @@
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kings-ty&theme=radical&hide_border=true" height="180" />
 </p>
-
----
-
-### 🚀 Projects & Live Apps
-Since your links are live apps, I've styled them as "Project Cards" for better visibility:
-
-| Project | Live Link | Description |
-| :--- | :--- | :--- |
-| **🚇 TY Land* | [Visit App ↗️](https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/) | Interactive frontend environment. |
-| **⚓ Submarine Monitor** | [Visit App ↗️](https://submarine-monitor-c2gagef0fvffa4c7.norwayeast-01.azurewebsites.net) | Real-time tracking and monitoring system. |
-| **📝 Word Recording** | [Visit App ↗️](https://wordrecording-85020.web.app/) | Vocabulary and recording platform. |
-
----
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
