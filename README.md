@@ -13,6 +13,11 @@
 - 🤖 **Focus:** Currently pivoting into **Robotics Vision** and **Machine Learning**
 - 🛠 **Experience:** 5 years of professional **Full-stack Development**
 - 💬 **Ask me about:** Web architecture, Python optimization, or the future of AI in robotics
+
+---
+
+### 🚀 Projects & Portfolio
+
 | Project | Preview | Description | Link |
 | :--- | :---: | :--- | :--- |
 | **🚇 TY Land** | ![TFL](https://img.shields.io/badge/TFL-London-red?style=for-the-badge&logo=london-underground&logoColor=white) | **TFL(런던 교통공사)** 스타일 인터랙티브 프론트엔드 | [**Visit App ↗️**](https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/) |
