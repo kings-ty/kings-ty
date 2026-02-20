@@ -28,9 +28,18 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kings-ty&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings-ty&layout=compact&theme=radical&hide_border=true" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kings-ty&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="190" alt="Overall Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings-ty&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="190" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kings-ty&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kings-ty&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
