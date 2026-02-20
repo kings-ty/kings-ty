@@ -27,15 +27,19 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 My Coding Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kings-ty&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Leo's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kings-ty&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="Leo's Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings-ty&layout=compact&theme=radical&hide_border=true&langs_count=6" width="300" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=kings-ty&layout=compact&theme=radical&hide_border=true" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kings-ty&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kings-ty&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkings-ty&count_bg=%23E31837&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Hits"/>
 </p>
 
 ---
