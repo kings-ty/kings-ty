@@ -40,7 +40,7 @@ Since your links are live apps, I've styled them as "Project Cards" for better v
 
 | Project | Live Link | Description |
 | :--- | :--- | :--- |
-| **🌍 TY Land** | [Visit App ↗️](https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/) | Interactive frontend environment. |
+| **🚇 TY Land* | [Visit App ↗️](https://ty-land-front-ekf9aje8are6ege0.norwayeast-01.azurewebsites.net/) | Interactive frontend environment. |
 | **⚓ Submarine Monitor** | [Visit App ↗️](https://submarine-monitor-c2gagef0fvffa4c7.norwayeast-01.azurewebsites.net) | Real-time tracking and monitoring system. |
 | **📝 Word Recording** | [Visit App ↗️](https://wordrecording-85020.web.app/) | Vocabulary and recording platform. |
 
