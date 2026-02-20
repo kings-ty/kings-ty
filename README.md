@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Education:** Student at **King's College London**
 - 🤖 **Focus:** Currently pivoting into **Robotics Vision** and **Machine Learning**
-- 🛠 **Experience:** 5 years of professional **Full-stack Development**
+- 🛠 **Experience:** 4 years of professional **Full-stack Development**
 - 💬 **Ask me about:** Web architecture, Python optimization, or the future of AI in robotics
 
 ---
