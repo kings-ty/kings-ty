@@ -27,19 +27,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kings-ty&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="190" alt="Overall Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings-ty&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="190" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kings-ty&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Leo's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kings-ty&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings-ty&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kings-ty&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kings-ty&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
